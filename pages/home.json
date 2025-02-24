@@ -1,0 +1,37 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [],
+  "children": [
+    {
+      "name": "test",
+      "nodeName": "test",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "9JQGKW"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "id": "67bc118bd357e80c2bf8e7c3",
+      "expressions": []
+    }
+  ]
+}
